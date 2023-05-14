@@ -4,7 +4,7 @@ We do cool things here! Currently focused on software development for Minecraft 
 on our own network infrastructure in Java and Python to create a diverse playable experience. In addition, our hopes are to
 use machine learning and AI tools to truly create something awesome.
 
-> Repositories are currently private, but public repos are most definitely planned.
+> Repositories are currently private, but public repos are most definitely planned
 
 <!--
 

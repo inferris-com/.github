@@ -27,9 +27,9 @@ Our Minecraft server network is a masterpiece of meticulous customization. We've
 My commitment to creating an exceptional environment for our community goes beyond the game itself. We're dedicated to providing a space where members can come together, engage in genuine conversations, and build lasting friendships. It's more than just gaming; it's a community centered around shared experiences and meaningful connections!
 
 ## Resources
-Website: https://inferris.com/community
-Support: https://support.inferris.com
-Discord: https://dsc.gg/inferris 
+* Website: https://inferris.com/community
+* Support: https://support.inferris.com
+* Discord: https://dsc.gg/inferris 
 <!--
 
 **Here are some ideas to get you started:**

@@ -2,7 +2,9 @@
 
 We're all about exciting endeavors here! At its heart, Inferris is a community-driven gaming network in production that's actively producing captivating content. Our current primary focus lies in the realm of software development, specifically geared towards enhancing Minecraft backend/frontend servers and proxies. We're hard at work crafting our own network infrastructure using Java and Python, with the aim of delivering an extraordinary and diverse gaming experience that prioritizes unity and connection (creating genuine friendships).
 
-Furthermore, we have ambitious aspirations to leverage machine learning and AI tools in our projects to create something truly extraordinary. Additionally, we're committed to sharing open-source libraries that will assist server administrators in their tasks!
+Additionally, we have an interest in creating open-source libraries/plugins to provide assistance to other server administrators and owners.
+
+
 
 <!--
 

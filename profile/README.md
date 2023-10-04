@@ -8,7 +8,7 @@ At the heart **♡** of my vision lies a steadfast commitment to cultivating a p
 
 Inferris offers a rich tapestry of experiences beyond competition. We will no doubt host a variety of events designed to bring our community closer together, such as movie nights where we gather to watch films, engaging in deep conversations, and organizing fun activities that allow us to share joyous moments as a united group of folks.
 
-This endeavor isn't just a project for me; it's an integral part of my lifelong calling. My mission has always been to unite people, and Inferris stands as one of the most special manifestations of that dream. In an age where it can be challenging to find communities that genuinely care, we proudly invite you to Inferris, where unity thrives, positivity blooms, and every moment is a testament to our unwavering commitment to creating something truly exceptional. 🖤
+This endeavor isn't just a project for me; it's an integral part of my lifelong calling. My mission has always been to make people feel less alone, and Inferris stands as one of the most special manifestations of that dream. In an age where it can be challenging to find communities that genuinely care, we proudly invite you to Inferris, where unity thrives, positivity blooms, and every moment is a testament to our unwavering commitment to creating something truly exceptional. 🖤
 
 Additionally, we have an interest in creating open-source libraries/plugins to provide assistance to other server administrators, owners, and developers.
 

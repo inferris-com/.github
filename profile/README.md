@@ -22,6 +22,13 @@ In the Inferris community, you will find a vibrant and welcoming space where gen
 6. **Shared Playlists**: The community likely shares playlists or music recommendations, further enhancing the sense of togetherness through shared interests.
 ### Is the Minecraft server custom?
 
+## Is the Minecraft network custom?
+Our Minecraft server network is a masterpiece of meticulous customization. We've transcended generic setups by handcrafting our plugins and fine-tuning every detail. This leads to a gaming experience that truly shines, featuring unparalleled features that are meticulously designed to foster a sense of unity and connection at its very core.
+
+My commitment to creating an exceptional environment for our community goes beyond the game itself. We're dedicated to providing a space where members can come together, engage in genuine conversations, and build lasting friendships. It's more than just gaming; it's a community centered around shared experiences and meaningful connections!
+
+## Resources
+Website: https://inferris.com/community
 <!--
 
 **Here are some ideas to get you started:**

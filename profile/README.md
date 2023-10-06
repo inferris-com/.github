@@ -31,6 +31,23 @@ Our Minecraft server network is a masterpiece of meticulous customization. We've
 
 My commitment to creating an exceptional environment for our community goes beyond the game itself. We're dedicated to providing a space where members can come together, engage in genuine conversations, and build lasting friendships. It's more than just gaming; it's a community centered around shared experiences and meaningful connections!
 
+## Project Progress and Development Overview
+At Inferris, we've made significant progress in crafting an extraordinary gaming network. Our focus has primarily been on the development of our Minecraft network infrastructure, and we're excited to share our journey with you.
+
+### Minecraft Network Development
+Our backend and frontend infrastructures have come a long way, boasting over 170 Java files and classes. This substantial foundation is the backbone of our network, designed to ensure scalability and exceptional functionality.
+
+While we've made substantial progress in building the infrastructure, our focus now shifts to game development. As a solo developer, I've been hard at work creating a robust network infrastructure that facilitates seamless communication between components, setting the stage for a bright future. The next phase of development will involve crafting engaging game experiences within our Minecraft server and implementing features that not only bring players together but also foster opportunities for meaningful connections to form.
+
+The journey continues, driven by my commitment to unity, positivity, and exceptional experiences. We invite you to be part of the Inferris community, where every moment is a testament to our dedication to creating something truly exceptional. 🖤
+
+### Web Development
+I've dedicated time and effort to enhance our web presence, including:
+- A vibrant community forum where meaningful discussions and interactions take place.
+- Custom web solutions such as in-house Inferris addons for our XenForo forums.
+- A dedicated support center to assist our community members.
+- Our proprietary email system, powered by Postfix and Dovecot, ensuring seamless communication.
+
 ## Resources
 * Website: https://inferris.com/community
 * Support: https://support.inferris.com

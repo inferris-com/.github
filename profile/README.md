@@ -35,9 +35,9 @@ My commitment to creating an exceptional environment for our community goes beyo
 At Inferris, we've made significant progress in crafting an extraordinary gaming network. Our focus has primarily been on the development of our Minecraft network infrastructure, and we're excited to share our journey with you.
 
 ### Minecraft Network Development
-Our backend and frontend infrastructures have come a long way, boasting over 170 Java files and classes. This substantial foundation is the backbone of our network, designed to ensure scalability and exceptional functionality.
+Our backend and frontend infrastructures have come a long way, boasting over 170 Java files and classes. This significant milestone represents the foundation of our network, which features a sophisticated multi-layered architecture. This architecture incorporates MySQL for robust relational database management, Redis for lightning-fast in-memory data storage, and local caching mechanisms to optimize data access and retrieval. Together, these layers ensure seamless communication and data handling, setting the stage for the next exciting phase of development: crafting engaging game experiences within our Minecraft server.
 
-While we've made substantial progress in building the infrastructure, our focus now shifts to game development. As a solo developer, I've been hard at work creating a robust network infrastructure that facilitates seamless communication between components, setting the stage for a bright future. The next phase of development will involve crafting engaging game experiences within our Minecraft server and implementing features that not only bring players together but also foster opportunities for meaningful connections to form.
+While we've made substantial progress in building the infrastructure, the next phase of development will involve crafting engaging game experiences within our Minecraft server and implementing features that not only bring players together but also foster opportunities for meaningful connections to form.
 
 The journey continues, driven by my commitment to unity, positivity, and exceptional experiences. We invite you to be part of the Inferris community, where every moment is a testament to our dedication to creating something truly exceptional. 🖤
 

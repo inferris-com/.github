@@ -52,6 +52,17 @@ I've dedicated time and effort to enhance our web presence, including:
 * Website: https://inferris.com/community
 * Support: https://support.inferris.com
 * Discord: https://dsc.gg/inferris 
+
+## Acknowledgments for Services and External Contributions
+In recognition of the services and individuals who've made a significant impact, I'd like to extend my gratitude, even though there have been no external contributions as I've been a lone developer for many years. However, for the sake of common courtesy, I'd like to express my thanks to the following:
+
+- XenForo developers, including Chris D, Jeremy P, Kier, Mike, and Naz.
+- OVH for their service as our provider, enabling me to host various services, such as web hosting, databases, email infrastructure, and our API.
+- md_5, a legend in the field.
+- The developers of the essential services we rely on, like NGINX, Django, Postfix, Dovecot, OpenDKIM, MySQL, Redis, and various other components.
+- Cloudflare for future security.
+- OpenAI, a source of inspiration for how we might integrate machine learning (if possible).
+
 <!--
 
 **Here are some ideas to get you started:**

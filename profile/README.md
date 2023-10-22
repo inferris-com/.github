@@ -1,6 +1,6 @@
 # Welcome to Inferris! 🌟
 
-At Inferris, we're all about exciting endeavors and fostering a sense of unity within our community. We're currently building our very own platform, which is currently focused on the Discord and Minecraft network infrastructure, to provide an extraordinary  experience that prioritizes genuine friendships and connections.
+At Inferris, I'm all about exciting endeavors and fostering a sense of unity. We're currently building our very own platform, which is currently focused on the Discord and Minecraft network infrastructure, to provide an extraordinary experience that prioritizes genuine friendships and connections.
 
 ## About us
 Inferris is an inclusive community for individuals aged **17+**, offering not only a meticulously crafted Minecraft server but also a vibrant Discord community server. We believe in creating an environment where meaningful connections can flourish and real conversations can take place.

@@ -12,7 +12,7 @@ Inferris is an inclusive community for individuals aged **17+**, offering not on
 - Hosting Engaging Community Events 🎉
 
 ## What Sets Us Apart
-Inferris isn't just a project; it's from a lifelong calling. My mission in life has always been to make people feel less alone, and Inferris is a special manifestation of that dream. In a world where genuine communities can be hard to find, we invite you to join us at Inferris, where positivity thrives, unity prevails, and every moment is a testament to our commitment to creating something truly exceptional. 🖤
+Inferris isn't just a project; it's a small piece a lifelong calling. My mission in life has always been to make people feel less alone, and Inferris is a special manifestation of that dream. In a world where genuine communities can be really hard to find, we invite you to join us at Inferris, where positivity thrives, unity prevails, and every moment is a testament to our commitment to creating something truly exceptional. 🖤
 
 ## Open-Source Initiatives
 In addition to our gaming endeavors, we have a keen interest in developing open-source libraries and plugins to assist other server administrators, owners, and developers.
@@ -27,9 +27,9 @@ In the Inferris community, you will find a vibrant and welcoming space where gen
 6. **Shared Playlists**: The community likely shares playlists or music recommendations, further enhancing the sense of togetherness through shared interests.
 
 ## Is the Minecraft network custom?
-Our Minecraft server network is a masterpiece of meticulous customization. We've transcended generic setups by handcrafting our plugins and fine-tuning every detail. This leads to a gaming experience that truly shines, featuring unparalleled features that are meticulously designed to foster a sense of unity and connection at its very core.
+Our Minecraft server network is a masterpiece of meticulous customization. We've transcended generic setups by handcrafting our plugins and fine-tuning every detail. This leads to a gaming experience that truly shines, featuring unparalleled features that are designed to foster a sense of unity and connection at its very core.
 
-My commitment to creating an exceptional environment for our community goes beyond the game itself. We're dedicated to providing a space where members can come together, engage in genuine conversations, and build lasting friendships. It's more than just gaming; it's a community centered around shared experiences and meaningful connections!
+My commitment to creating an exceptional environment for our community goes beyond the game itself. We're dedicated to providing a space where members can come together, engage in genuine conversations, and build lasting friendships. It's more than just gaming; it's a community in development centered around shared experiences and meaningful connections!
 
 ## Project Progress and Development Overview
 At Inferris, we've made significant progress in crafting an extraordinary gaming network. Our focus has primarily been on the development of our Minecraft network infrastructure, and we're excited to share our journey with you.
@@ -43,7 +43,7 @@ The journey continues, driven by my commitment to unity, positivity, and excepti
 
 ### Web Development
 I've dedicated time and effort to enhance our web presence, including:
-- A vibrant community forum where meaningful discussions and interactions take place.
+- A vibrant community forum for the future where meaningful discussions and interactions take place.
 - Custom web solutions such as in-house Inferris addons for our XenForo forums.
 - A dedicated support center to assist our community members.
 - Our proprietary email system, powered by Postfix and Dovecot, ensuring seamless communication.

@@ -24,7 +24,7 @@ In the Inferris community, you will find a vibrant and welcoming space where gen
 3. **Icebreaker Activities**: The community hosts activities like "icebreaker" games to help members get to know each other better in a fun and engaging way. Participants are randomly paired and take turns answering questions to foster conversations and build connections.
 4. **Trivia Clash Night**: For some friendly competition and bonding, members can participate in Trivia Clash Night. Teams are formed, and participants answer interesting questions from various categories, ensuring a fun and interactive experience.
 5. **Movie Nights**: Join the virtual starry sky for Movie Night Extravaganza! We will be hosting movies together, whether you're a fan of comedy, thrillers, or romantic films. These movie nights are hosted here, allowing you to join the stream and enjoy films with others.
-6. **Shared Playlists**: The community likely shares playlists or music recommendations, further enhancing the sense of togetherness through shared interests.
+6. **Shared Playlists**: The community likely will share playlists or music recommendations, further enhancing the sense of togetherness through shared interests.
 
 ## Is the Minecraft network custom?
 Our Minecraft server network is a masterpiece of meticulous customization. We've transcended generic setups by handcrafting our plugins and fine-tuning every detail. This leads to a gaming experience that truly shines, featuring unparalleled features that are designed to foster a sense of unity and connection at its very core.

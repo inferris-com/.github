@@ -1,57 +1,46 @@
 # Welcome to Inferris! 🌟
 
-At Inferris, I'm all about exciting endeavors and fostering a sense of unity. We're currently building our very own platform, which is currently focused on the Discord and Minecraft network infrastructure, to provide an extraordinary experience that prioritizes genuine friendships and connections.
-
-## About us
-Inferris is an inclusive community for individuals aged **17+**, offering not only a meticulously crafted Minecraft server but also a vibrant Discord community server. We believe in creating an environment where meaningful connections can flourish and real conversations can take place.
+Inferris is a unique community that seeks to forge meaningful connections through a vibrant Discord server, although we are working on a Minecraft network for any gamers out there. Our goal is to foster unity and nurture individuals so that everyone can thrive, both in fun and deep conversations. We won't be just a platform, but a sanctuary of love, compassion, and understanding—a haven for everyone to feel validated, understood, and accepted.
 
 ## Our vision
-- Cultivating a Positive Atmosphere 🌼
-- Embracing Unity and Inclusivity 🤝
-- Fostering Deep Connections 💬
-- Hosting Engaging Community Events 🎉
+Inferris aspires to be a relaxed lounge where people can unwind, connect, and find genuine meaning. We are building a community that reflects these values:
 
-## What Sets Us Apart
-Inferris isn't just a project; it's a small piece a lifelong calling. My mission in life has always been to make people feel less alone, and Inferris is a special manifestation of that dream. In a world where genuine communities can be really hard to find, we invite you to join us at Inferris, where positivity thrives, unity prevails, and every moment is a testament to our commitment to creating something truly exceptional. 🖤
+- **Compassion**: Emphasizing care and support for one another.
+- **Connection**: Creating opportunities to forge real relationships and nurture a strong sense of belonging.
+- **Unity**: Providing a safe, inclusive, and understanding environment.
+- **Growth**: Encouraging self-discovery through discussions on life, challenges, and aspirations.
 
-## Open-Source Initiatives
-In addition to our gaming endeavors, we have a keen interest in developing open-source libraries and plugins to assist other server administrators, owners, and developers.
-
-## What will you be able to do @ Inferris?
+  ## What will you be able to do @ Inferris?
 In the Inferris community, you will find a vibrant and welcoming space where genuine connection, unity, and meaningful conversations take center stage. Here are some of the key activities and experiences you can expect:
-1. **Minecraft Server**: The heart of the project is the custom Minecraft server. This server serves as a vibrant hub for a wide range of community activities and games. While it incorporates elements of community input, it primarily serves as a platform where members can come together for meaningful interactions, genuine conversations, and the forging of connections that truly matter.
-2. **Monthly Themes**: Inferris regularly transforms into new thematic experiences, offering members fresh adventures. These themes can range from immersive fantasy realms to nostalgic retro vibes or futuristic science fiction odysseys. Each month brings something different, fostering a sense of togetherness and sparking creativity within the community.
-3. **Icebreaker Activities**: The community hosts activities like "icebreaker" games to help members get to know each other better in a fun and engaging way. Participants are randomly paired and take turns answering questions to foster conversations and build connections.
-4. **Trivia Clash Night**: For some friendly competition and bonding, members can participate in Trivia Clash Night. Teams are formed, and participants answer interesting questions from various categories, ensuring a fun and interactive experience.
-5. **Movie Nights**: Join the virtual starry sky for Movie Night Extravaganza! We will be hosting movies together, whether you're a fan of comedy, thrillers, or romantic films. These movie nights are hosted here, allowing you to join the stream and enjoy films with others.
-6. **Shared Playlists**: The community likely will share playlists or music recommendations, further enhancing the sense of togetherness through shared interests.
 
-## Is the Minecraft network custom?
-Our Minecraft server network is a masterpiece of meticulous customization. We've transcended generic setups by handcrafting our plugins and fine-tuning every detail. This leads to a gaming experience that truly shines, featuring unparalleled features that are designed to foster a sense of unity and connection at its very core.
+### 🌐 Discord Community
+- **Icebreaker Games**: Break the ice through randomized pairings that help you connect with other members through thoughtful questions and casual conversation.
+- **Trivia Clash Nights**: Team up with friends to test your knowledge across various trivia categories in a lively, competitive setting.
+- **Movie Nights**: Unwind together with your fellow members while watching a selection of films across different genres, chatting and sharing thoughts as the night unfolds.
+- **Collaborative Playlists**: Share music recommendations and discover new tunes with others through our collaborative playlists, bonding over common tastes.
 
-My commitment to creating an exceptional environment for our community goes beyond the game itself. We're dedicated to providing a space where members can come together, engage in genuine conversations, and build lasting friendships. It's more than just gaming; it's a community in development centered around shared experiences and meaningful connections!
+### 🎮 Minecraft Network
+- **Collaborative Projects**: Work together with others on large-scale builds and creative projects that strengthen bonds and bring members together.
+- **Competitive Games**: Challenge yourself or your friends in fun, competitive games that focus on friendly rivalry and personal improvement.
+- **Survival World**: Establish bases, form groups, and explore the limitless creativity of the survival world, where adventure meets collaboration.
+- **Community Feedback**: Inferris is shaped by you! Share your ideas and concerns to help shape future gameplay, activities, and events.
 
-## Project Progress and Development Overview
-At Inferris, we've made significant progress in crafting an extraordinary gaming network. Our focus has primarily been on the development of our Minecraft network infrastructure, and we're excited to share our journey with you.
+### Under the Hood: Technical Features
+**Player Data Infrastructure:**
+Our player data infrastructure ensures seamless synchronization and accessibility across the network, using a carefully architected stack:
+- Backend: BungeeCord and Spigot plugins form the foundation of the network, enabling smooth transitions between different game modes and servers.
+- Caching: Caffeine caching stores frequently accessed data in memory during active sessions for rapid access. Redis provides an additional layer as a persistent in-memory data store, reducing latency and acting as a fallback for session continuity.
+- Databases: MySQL offers robust, long-term storage of core player information like ranks, coins, and vanish state.
 
-### Minecraft Network Development
-Our backend and frontend infrastructures have come a long way, boasting over 170 Java files and classes. This significant milestone represents the foundation of our network, which features a sophisticated multi-layered architecture. This architecture incorporates MySQL for robust relational database management, Redis for lightning-fast in-memory data storage, and local caching mechanisms to optimize data access and retrieval. Together, these layers ensure seamless communication and data handling, setting the stage for the next exciting phase of development: crafting engaging game experiences within our Minecraft server.
-
-While we've made substantial progress in building the infrastructure, the next phase of development will involve crafting engaging game experiences within our Minecraft server and implementing features that not only bring players together but also foster opportunities for meaningful connections to form.
-
-The journey continues, driven by my commitment to unity, positivity, and exceptional experiences. We invite you to be part of the Inferris community, where every moment is a testament to our dedication to creating something truly exceptional. 🖤
-
-### Web Development
-I've dedicated time and effort to enhance our web presence, including:
-- A vibrant community forum for the future where meaningful discussions and interactions take place.
-- Custom web solutions such as in-house Inferris addons for our XenForo forums.
-- A dedicated support center to assist our community members.
-- Our proprietary email system, powered by Postfix and Dovecot, ensuring seamless communication.
+**Verification System:**
+Your identity is unified across the Inferris community via custom integrations:
+- Minecraft-Discord Link: Link your Minecraft account to our Discord server for a seamless experience, synchronizing in-game ranks and roles.
+- XenForo Add-On: The Inferris forums use custom integrations that allow players to verify their accounts, ensuring consistent identification across the community.
 
 ## Resources
+* Discord: https://dsc.gg/inferris
 * Website: https://inferris.com/community
 * Support: https://support.inferris.com
-* Discord: https://dsc.gg/inferris 
 
 ## Acknowledgments for Services and External Contributions
 In recognition of the services and individuals who've made a significant impact, I'd like to extend my gratitude, even though there have been no external contributions as I've been a lone developer for many years. However, for the sake of common courtesy, I'd like to express my thanks to the following:
@@ -60,7 +49,7 @@ In recognition of the services and individuals who've made a significant impact,
 - OVH for their service as our provider, enabling me to host various services, such as web hosting, databases, email infrastructure, and our API.
 - md_5, a legend in the field.
 - The developers of the essential services we rely on, like NGINX, Django, Postfix, Dovecot, OpenDKIM, MySQL, Redis, and various other components.
-- Cloudflare for future security.
+- Cloudflare for security.
 - OpenAI, a source of inspiration for how we might integrate machine learning (if possible).
 
 <!--

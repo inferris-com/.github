@@ -29,7 +29,6 @@ In the Inferris community, you will find a vibrant and welcoming space where gen
 Inferris boasts a large technology stack for many different reasons, which allows us to make what we are building in the first place.
 
 **RESTful API Microservice:**
-
 The REST API serves as the main point of entry for querying and updating player and server data, whether it's a request from a plugin, or from an external app.
 - Built with Node.js and Express.js, and uses Redis and MySQL for the data layer.
 - Allows custom software, such as an admin panel interface, to GET, POST, and PUT, and integrates with Redis PubSub to properly update the network to make local changes 

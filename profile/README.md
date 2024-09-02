@@ -26,15 +26,21 @@ In the Inferris community, you will find a vibrant and welcoming space where gen
 - **Community Feedback**: Inferris is shaped by you! Share your ideas and concerns to help shape future gameplay, activities, and events.
 
 ### Under the Hood: Technical Features
-**Player Data Infrastructure:**
-Our player data infrastructure ensures seamless synchronization and accessibility across the network, using a carefully architected stack:
-- Backend: BungeeCord and Spigot plugins form the foundation of the network, enabling smooth transitions between different game modes and servers.
+Inferris boasts a large technology stack for many different reasons, which allows us to make what we are building in the first place.
+**RESTful API Microservice:***
+The REST API serves as the main point of entry for querying and updating player and server data, whether it's a request from a plugin, or from an external app.
+- Built with Node.js and Express.js, and uses Redis and MySQL for the data layer.
+- Allows custom software, such as an admin panel interface, to GET, POST, and PUT, and integrates with Redis PubSub to properly update the network to make local changes 
+- Different endpoints
+**Server Architecture:**
+Our player data architecture, which uses the Inferris API, ensures seamless synchronization and accessibility across the network, using a carefully architected setup:
+- Backend: BungeeCord and Spigot plugins form the foundation of the Minecraft-centered network, enabling smooth transitions between different game modes and servers.
 - Caching: Caffeine caching stores frequently accessed data in memory during active sessions for rapid access. Redis provides an additional layer as a persistent in-memory data store, reducing latency and acting as a fallback for session continuity.
-- Databases: MySQL offers robust, long-term storage of core player information like ranks, coins, and vanish state.
+- Databases: MySQL offers robust, long-term storage of core player information like ranks, coins, and vanish state. Redis offers fast short-term caching solutions
 
 **Verification System:**
 Your identity is unified across the Inferris community via custom integrations:
-- Minecraft-Discord Link: Link your Minecraft account to our Discord server for a seamless experience, synchronizing in-game ranks and roles.
+- Minecraft-Discord Link: Link your Minecraft account to our Discord server, synchronizing in-game ranks and roles.
 - XenForo Add-On: The Inferris forums use custom integrations that allow players to verify their accounts, ensuring consistent identification across the community.
 
 ## Resources
@@ -43,15 +49,13 @@ Your identity is unified across the Inferris community via custom integrations:
 * Support: https://support.inferris.com
 
 ## Acknowledgments for Services and External Contributions
-In recognition of the services and individuals who've made a significant impact, I'd like to extend my gratitude, even though there have been no external contributions as I've been a lone developer for many years. However, for the sake of common courtesy, I'd like to express my thanks to the following:
+In recognition of the services used, and for the sake of common courtesy, I'd like to express my thanks to the following:
 
+- The developers of the essential services we rely on, like NGINX, Django, Postfix, Dovecot, MySQL, Redis
 - XenForo developers, including Chris D, Jeremy P, Kier, Mike, and Naz.
 - OVH for their service as our provider, enabling me to host various services, such as web hosting, databases, email infrastructure, and our API.
-- md_5, a legend in the field.
-- The developers of the essential services we rely on, like NGINX, Django, Postfix, Dovecot, OpenDKIM, MySQL, Redis, and various other components.
+- md_5, a legend in the field. Also a big thanks to the PaperMC team.
 - Cloudflare for security.
-- OpenAI, a source of inspiration for how we might integrate machine learning (if possible).
-
 <!--
 
 **Here are some ideas to get you started:**

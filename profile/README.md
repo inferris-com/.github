@@ -3,7 +3,7 @@
 Inferris is a unique community that seeks to forge meaningful connections through a vibrant Discord server, although we are working on a Minecraft network for any gamers out there. Our goal is to foster unity and nurture individuals so that everyone can thrive, both in fun and deep conversations. We won't be just a platform, but a sanctuary of love, compassion, and understanding—a haven for everyone to feel validated, understood, and accepted.
 
 ## Our vision
-Inferris aspires to be a relaxed lounge where people can unwind, connect, and find genuine meaning. We are building a community that reflects these values:
+Inferris aspires to be a relaxed lounge where people can unwind, connect, and find help genuine meaning. We are building a community that reflects these values:
 
 - **Compassion**: Emphasizing care and support for one another.
 - **Connection**: Creating opportunities to forge real relationships and nurture a strong sense of belonging.

@@ -50,7 +50,7 @@ Your identity is unified across the Inferris community via custom integrations:
 ## Acknowledgments for Services and External Contributions
 In recognition of the services used, and for the sake of common courtesy, I'd like to express my thanks to the following:
 
-- The developers of the essential services we rely on, like NGINX, Postfix, MySQL, Redis
+- The developers of the essential services we rely on, like NGINX, Postfix, MySQL, Redis.
 - OVH for their service as our provider, enabling me to host various services, such as web hosting, databases, email infrastructure, and our API.
 - md_5, a legend in the field. Also a big thanks to the PaperMC team.
 - XenForo developers, including Chris D, Jeremy P, Kier, Mike, and Naz.
